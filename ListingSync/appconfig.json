@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "mysql": "server=localhost;port=3306;database=homepin;user=root;password=^dir^!3u?Vw9ac#!210h3`p^g4l?npm~4p,:"
+  },
+  "AppIdentitySettings": {
+    "rets_base_url": "http://retsau.torontomls.net:6103",
+    "rets_username": "EV18sun",
+    "rets_password": "G42$b26",
+    "rets_version": "RETS/1.7",
+    "rets_image_path": "G:\\sunil\\HomepinDev\\ListingSync\\Photos"
+  }
+}
